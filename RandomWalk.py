@@ -1,9 +1,7 @@
 """
     Q2: 2-Dimensional Random Walk
     Author: Sampson Akwafuo
-    Course: Computational Epidemiology
-    Instructor: Dr A. R. Mikler
-    TA: Sultanah Alshammari
+   
 """
 """
   Description: This program calculates distance covered, probability of getting infected and variation of infection 
